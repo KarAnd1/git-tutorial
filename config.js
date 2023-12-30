@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version2 update najlepsze');
+console.log('version4 update najlepsze');
